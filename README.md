@@ -1,3 +1,4 @@
 # Udacity-Python-Programming
-### Run the entertainment.py file to see a created html file 
-### after running click on particular movie to see trailer
+### Running the entertainment.py file creates a html file 
+### html file will be automatically opened in your browser 
+### after running click on particular movie to see its trailer.
